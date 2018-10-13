@@ -20,5 +20,6 @@ Networking: 2G:GSM 900/1800/1900MHz
 Вес: 172 g
 Battery Capacity 2500mAh
 ===============================================================================
-ViewSonic.jpg
+https://github.com/mrDanilan/ViewSonicV500/blob/master/ViewSonic.jpg
+
 остальные почему то не даёт залить :(
